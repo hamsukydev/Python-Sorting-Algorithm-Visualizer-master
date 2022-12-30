@@ -26,7 +26,7 @@ The project is implemented in Python using Pygame. The program allows the user t
 
 The user is able to select an algorithm from a selection to visualize and also customize the number of elements in the list to be sorted and the speed at which the visualization to run. After selecting all the necessary parametes the user can choose to start the algorithm visualization. After the algorithm has finished, the user can choose to reset the application in order to select different parameters to test.
 
-![](https://github.com/andreidumitrescu95/Python-Sorting-Algorithm-Visualizer/blob/master/sorting_visualization.gif)
+![](https://github.com/hamsukydev/Python-Sorting-Algorithm-Visualizer/blob/master/sorting_visualization.gif)
 
 ## WIP features and functionalities
 
